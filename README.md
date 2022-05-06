@@ -1,6 +1,7 @@
 # smalltools
-Contains some parameters
+
+CONTAINS_SOME_PARAMETERS:
 IP: localhost
 PO: 1527
 DP: $HOME/Documents/Patients/Backup/GATE
-END:
+END_OF_RECORDS:
